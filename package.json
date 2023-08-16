@@ -1,5 +1,5 @@
 {
-  "name": "desafio-lanchonete",
+  "name": "desafio-victor-kelvin",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -7,7 +7,7 @@
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Victor Kelvin",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.6.2"
